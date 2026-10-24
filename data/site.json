@@ -1,0 +1,24 @@
+{
+  "title": "Your Name",
+  "url": "https://example.com",
+  "description": "Writing by Your Name on things you care about.",
+  "author": "Your Name",
+  "twitter": "",
+  "intro": "Hi, I'm Your Name. I write here about whatever I'm working on.",
+  "postFooter": "Want to talk? Reach me wherever.",
+  "aboutDek": "",
+  "aboutTitle": "",
+  "about": [
+    "A paragraph or two about you. This drives the About page."
+  ],
+  "experience": [
+    {
+      "org": "Example Corp",
+      "url": "https://example.com",
+      "role": "Your role",
+      "desc": "What you did there.",
+      "when": "2024 – now"
+    }
+  ],
+  "acknowledgements": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "hacker-blog",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "dev": "node src/build.mjs --drafts && npx serve dist -l 8787",
+    "deploy": "node src/build.mjs && wrangler deploy"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@fontsource-variable/schibsted-grotesk": "^5.3.0",
+    "@fontsource/fragment-mono": "^5.3.0",
+    "@fontsource/schibsted-grotesk": "^5.3.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "cheerio": "^1.2.0",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^15.0.2",
+    "markdown-it-anchor": "^10.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "satori": "^0.35.0",
+    "shiki": "^4.5.0"
+  },
+  "private": true
+}

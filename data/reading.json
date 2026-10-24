@@ -1,0 +1,13 @@
+{
+  "_format": "reading: what I'm on now. read: finished, newest first. Fields: title, author, url (optional), kind (book | paper | post | talk), finished (YYYY-MM, read only), note (optional, one line).",
+  "reading": [],
+  "read": [
+    {
+      "title": "Dibs on the Fun Part",
+      "author": "Atredis",
+      "url": "https://atredis.com/blog/2026/10/22/dibs-on-the-fun-part/",
+      "kind": "post",
+      "finished": "2026-10"
+    }
+  ]
+}

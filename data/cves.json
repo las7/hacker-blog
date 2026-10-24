@@ -1,0 +1,17 @@
+[
+  {
+    "vendor": "Example Vendor",
+    "items": [
+      {
+        "id": "CVE-1900-0000",
+        "product": "Example Product",
+        "impact": "One line on the bug and how it was fixed.",
+        "class": "Memory safety",
+        "severity": "Medium",
+        "detail": "Fixed in 1.0.1",
+        "vendorUrl": "https://example.com/advisory",
+        "date": "2026-01-01"
+      }
+    ]
+  }
+]

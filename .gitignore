@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.wrangler/
+.DS_Store
+.impeccable/review/
+.impeccable/config.local.json
+.env
